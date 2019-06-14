@@ -1,5 +1,5 @@
 # escalatorModeling
-A first project made in AnyLogic. 
+A first project made in AnyLogic. To run it you need AnyLogic environment.  
 
 It is a program that models pedestrians' behaviour at some metro escalator.
 
